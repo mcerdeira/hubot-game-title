@@ -1,0 +1,25 @@
+{
+  "name": "hubot-game-title",
+  "version": "1.0.0",
+  "description": "A hubot script for getting random game titles.",
+  "main": "index.coffee",
+  "dependencies": {
+    "handlebars": "^3.0.3",
+    "indefinite-article": "^0.0.2",
+    "lodash": "^3.9.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/mcerdeira/hubot-game-title.git"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "hubot",
+    "gamdedev"
+  ],
+  "author": "Martin Cerdeira",
+  "license": "MITORONJA"
+}
