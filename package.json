@@ -1,6 +1,6 @@
 {
   "name": "hubot-game-title",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A hubot script for getting random game titles.",
   "main": "index.coffee",
   "dependencies": {
