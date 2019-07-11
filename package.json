@@ -6,7 +6,7 @@
   "dependencies": {
     "handlebars": "^3.0.3",
     "indefinite-article": "^0.0.2",
-    "lodash": "^3.9.3"
+    "lodash": ">=4.17.13"
   },
   "repository": {
     "type": "git",
